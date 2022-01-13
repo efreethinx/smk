@@ -28,4 +28,4 @@ SMK diinisiasi oleh program pembinaan PKL yang diselenggarakan Al-Faris Solution
 - The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 - SMK is open-sourced on development only.
 
-# SMK
+# SMK PKL
