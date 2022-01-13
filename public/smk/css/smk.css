@@ -1,0 +1,40 @@
+body {
+    background-color: #e83443;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+.messagebox {
+    background-color: ivory;
+    width: 400px;
+    margin: 8px auto 0px auto;
+    padding: 22px;
+    color: brown;
+}
+
+.mybtn {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 760px) {
+    .messagebox {
+        width: 300px;
+        padding: 14px;
+    }
+
+    .title {
+        font-size: 22px;
+    }
+}
