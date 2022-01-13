@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/public/smk/logo/smk.png" width="350">
+  <img src="/public/smk/logo/smkBisaHebat.png" width="350">
 </p>
 
 <h1 align="center"> SMK </h1>
