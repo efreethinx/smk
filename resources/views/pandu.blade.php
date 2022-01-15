@@ -13,7 +13,7 @@
         <div class="messagebox">
             Nama Project : SMK <br>
             <br>
-            Pengembang : Dede Iyan Supardi, S.T.<br>
+            Pengembang : Pandu Yassar Alfarros<br>
             <br>
             Waktu Prod : Januari - Maret 2022
             <br>
@@ -22,7 +22,6 @@
                 <button class="mybtn" onclick="masuk()">MASUK</button>
             </div>
         </div>
-        <p>hallo</p>
     </div>
     <script src="smk/js/smk.js"></script>
 </body>
