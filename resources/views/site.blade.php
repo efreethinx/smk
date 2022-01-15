@@ -22,6 +22,7 @@
                 <button class="mybtn" onclick="masuk()">MASUK</button>
             </div>
         </div>
+        <p>hallo</p>
     </div>
     <script src="smk/js/smk.js"></script>
 </body>
